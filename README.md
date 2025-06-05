@@ -5,14 +5,14 @@ A machine learning project for classifying water pump functionality in Tanzania 
 ## 🏆 Competition
 This project was developed for the "Pump it Up: Data Mining the Water Table" competition on DrivenData, focusing on improving water access through predictive analytics.
 
-## 📊 Project Overview
+## Project Overview
 
 This project tackles the challenge of predicting the operational status of water pumps in Tanzania using machine learning techniques. The goal is to classify pumps into three categories:
 - **Functional**: Working properly
 - **Functional needs repair**: Working but requires maintenance
 - **Non-functional**: Not working
 
-## 📈 Results
+## Results
 
 We achieved **80.98% accuracy** with our best-performing model, demonstrating the potential for machine learning in predictive maintenance of water infrastructure.
 
@@ -25,7 +25,7 @@ We achieved **80.98% accuracy** with our best-performing model, demonstrating th
 | CatBoost | 80% | Highest precision for "needs repair" category |
 | Decision Tree | 74% | Baseline model |
 
-## 🔧 Technical Approach
+## Technical Approach
 
 ### Models Implemented
 - **Decision Tree**: Simple baseline model
@@ -44,20 +44,20 @@ We achieved **80.98% accuracy** with our best-performing model, demonstrating th
 - Precision, Recall, and F1-Score for each class
 - Balanced performance across all three categories
 
-## 🚀 Key Findings
+## Key Findings
 
 1. **Random Forest emerged as the top performer** with 81% accuracy and balanced metrics across all categories
 2. **Challenge identified**: All models struggled with the "functional needs repair" category, indicating class imbalance issues
 3. **Practical impact**: The model can help prioritize maintenance efforts and resource allocation
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Primary Language:** Python
 - **Environment:** Jupyter Notebook
 - **ML Libraries:** Scikit-learn, XGBoost, CatBoost
 - **Data Processing:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 
-## 👥 Team
+## collaborators
 
-- **Jasmine Elmahalawy** - Computer Engineering, Arab Academy for Science & Technology
-- **Khloud Maged** - Computer Engineering, Arab Academy for Science & Technology
+- **Jasmine Elmahalawy** 
+- **Khloud Maged** 
