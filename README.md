@@ -50,6 +50,13 @@ We achieved **80.98% accuracy** with our best-performing model, demonstrating th
 2. **Challenge identified**: All models struggled with the "functional needs repair" category, indicating class imbalance issues
 3. **Practical impact**: The model can help prioritize maintenance efforts and resource allocation
 
+## 🛠️ Tech Stack
+- **Primary Language:** Python
+- **Environment:** Jupyter Notebook
+- **ML Libraries:** Scikit-learn, XGBoost, CatBoost
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+
 ## 👥 Team
 
 - **Jasmine Elmahalawy** - Computer Engineering, Arab Academy for Science & Technology
